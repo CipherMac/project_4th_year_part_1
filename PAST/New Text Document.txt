@@ -1,0 +1,5 @@
+Components required: -
+1. Rasberry Pi 
+2. Arduino Uno ( ATmega328P )
+3. Temprature Sensor (DHT 11)
+4. Humidity sensor (DHT 11)
